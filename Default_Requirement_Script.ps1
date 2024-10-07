@@ -3,12 +3,11 @@
     Requirement script to check for software updates
 .DESCRIPTION
     Requirement script will check to see if <APPNAME> is installed and if it is, mark the device applicable for the latest software update.
-.PARAMETER
+.PARAMETERS
     N/A
 .INPUTS
     N/A
 .OUTPUTS
-
     N/A
 .NOTES
     Version: 1.0

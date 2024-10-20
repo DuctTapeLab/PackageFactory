@@ -17,6 +17,8 @@
     <DetectionMethod>
     </DetectionMethod>
     <DetectionConnector>AND</DetectionConnector>
+    <InstallationBehavior>
+    </InstallationBehavior> 
     <RebootBehavior>
     </RebootBehavior>
     <LogonRequirement>
@@ -37,8 +39,8 @@
     <FileExpresionOperator>GreaterEquals</FileExpresionOperator>
     <FileExpectedValue>
     </FileExpectedValue>
-    <Is64BitInstaller>
-    </Is64BitInstaller>
+    <Is32bitOn64bitSystem>
+    </Is32bitOn64bitSystem>
   </FileDetection>
   <FileDetection2>
     <FileDetectionPath />

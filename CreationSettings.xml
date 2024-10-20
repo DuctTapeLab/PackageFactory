@@ -1,0 +1,83 @@
+<ALLAPPINFO>
+  <ApplicationInforamtion>
+    <Publisher></Publisher>
+    <ApplicationName></ApplicationName>
+    <SoftwareVersion>
+    </SoftwareVersion>
+    <ContentLocation>
+    </ContentLocation>
+    <IconLocationFile>
+    </IconLocationFile>
+    <InstallationProgram>Deploy-Applicaton.exe Install Silent</InstallationProgram>
+    <UninstallProgram>Deploy-Applicaton.exe Uninstall Silent</UninstallProgram>
+    <LocalizedDescription>
+    </LocalizedDescription>
+    <Keyword>
+    </Keyword>
+    <DetectionMethod>
+    </DetectionMethod>
+    <DetectionConnector>AND</DetectionConnector>
+    <RebootBehavior>
+    </RebootBehavior>
+  </ApplicationInforamtion>
+  <MsiDetection>
+    <MsiFile1>
+    </MsiFile1>
+    <MsiFile2 />
+    <MsiFile3 />
+  </MsiDetection>
+  <FileDetection>
+    <FileDetectionPath>
+    </FileDetectionPath>
+    <FileName>
+    </FileName>
+    <FilePropertyType>
+    </FilePropertyType>
+    <FileExpresionOperator>
+    </FileExpresionOperator>
+    <FileExpectedValue>
+    </FileExpectedValue>
+    <Is64BitInstaller>
+    </Is64BitInstaller>
+  </FileDetection>
+  <FileDetection2>
+    <FileDetectionPath />
+    <FileName />
+    <FilePropertyType />
+    <FileExpresionOperator />
+    <FileExpectedValue />
+    <Is64BitInstaller />
+  </FileDetection2>
+  <FileDetection3>
+    <FileDetectionPath />
+    <FileName />
+    <FilePropertyType />
+    <FileExpresionOperator />
+    <FileExpectedValue />
+    <Is64BitInstaller />
+  </FileDetection3>
+  <RegistryDetection>
+    <Hive />
+    <KeyName />
+    <RegistryPropertyType />
+    <RegistryValueName />
+    <RegistryExpectedValue />
+    <RegistryExpressionOperator />
+  </RegistryDetection>
+  <RegistryDetection2>
+    <Hive />
+    <KeyName />
+    <RegistryPropertyType />
+    <RegistryValueName />
+    <RegistryExpectedValue />
+    <RegistryExpressionOperator />
+  </RegistryDetection2>
+  <RegistryDetection3>
+    <Hive />
+    <KeyName />
+    <RegistryPropertyType />
+    <RegistryValueName />
+    <RegistryExpectedValue />
+    <RegistryExpressionOperator />
+  </RegistryDetection3>
+</ALLAPPINFO>

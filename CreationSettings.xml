@@ -8,8 +8,8 @@
     </ContentLocation>
     <IconLocationFile>
     </IconLocationFile>
-    <InstallationProgram>Deploy-Applicaton.exe Install Silent</InstallationProgram>
-    <UninstallProgram>Deploy-Applicaton.exe Uninstall Silent</UninstallProgram>
+    <InstallationProgram>Deploy-Application.exe Install Silent</InstallationProgram>
+    <UninstallProgram>Deploy-Application.exe Uninstall Silent</UninstallProgram>
     <LocalizedDescription>
     </LocalizedDescription>
     <Keyword>

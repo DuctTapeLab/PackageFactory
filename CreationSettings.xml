@@ -31,10 +31,8 @@
     </FileDetectionPath>
     <FileName>
     </FileName>
-    <FilePropertyType>
-    </FilePropertyType>
-    <FileExpresionOperator>
-    </FileExpresionOperator>
+    <FilePropertyType>Version</FilePropertyType>
+    <FileExpresionOperator>GreaterEquals/FileExpresionOperator>
     <FileExpectedValue>
     </FileExpectedValue>
     <Is64BitInstaller>

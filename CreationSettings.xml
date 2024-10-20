@@ -34,7 +34,7 @@
     <FileName>
     </FileName>
     <FilePropertyType>Version</FilePropertyType>
-    <FileExpresionOperator>GreaterEquals/FileExpresionOperator>
+    <FileExpresionOperator>GreaterEquals</FileExpresionOperator>
     <FileExpectedValue>
     </FileExpectedValue>
     <Is64BitInstaller>

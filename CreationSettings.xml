@@ -14,9 +14,7 @@
     </LocalizedDescription>
     <Keyword>
     </Keyword>
-    <DetectionMethod>
-    </DetectionMethod>
-    <DetectionConnector>AND</DetectionConnector>
+    <DetectionMethod>Script</DetectionMethod>
     <InstallationBehavior>
     </InstallationBehavior> 
     <RebootBehavior>
@@ -24,64 +22,4 @@
     <LogonRequirement>
     </LogonRequirement>
   </ApplicationInforamtion>
-  <MsiDetection>
-    <MsiFile1>
-    </MsiFile1>
-    <MsiFile2 />
-    <MsiFile3 />
-  </MsiDetection>
-  <FileDetection>
-    <FileDetectionPath>
-    </FileDetectionPath>
-    <FileName>
-    </FileName>
-    <FilePropertyType>Version</FilePropertyType>
-    <FileExpresionOperator>GreaterEquals</FileExpresionOperator>
-    <FileExpectedValue>
-    </FileExpectedValue>
-    <Is32bitOn64bitSystem>
-    </Is32bitOn64bitSystem>
-  </FileDetection>
-  <FileDetection2>
-    <FileDetectionPath />
-    <FileName />
-    <FilePropertyType />
-    <FileExpresionOperator />
-    <FileExpectedValue />
-    <Is32bitOn64bitSystem>
-    </Is32bitOn64bitSystem>
-  </FileDetection2>
-  <FileDetection3>
-    <FileDetectionPath />
-    <FileName />
-    <FilePropertyType />
-    <FileExpresionOperator />
-    <FileExpectedValue />
-    <Is32bitOn64bitSystem>
-    </Is32bitOn64bitSystem>
-  </FileDetection3>
-  <RegistryDetection>
-    <Hive />
-    <KeyName />
-    <RegistryPropertyType />
-    <RegistryValueName />
-    <RegistryExpectedValue />
-    <RegistryExpressionOperator />
-  </RegistryDetection>
-  <RegistryDetection2>
-    <Hive />
-    <KeyName />
-    <RegistryPropertyType />
-    <RegistryValueName />
-    <RegistryExpectedValue />
-    <RegistryExpressionOperator />
-  </RegistryDetection2>
-  <RegistryDetection3>
-    <Hive />
-    <KeyName />
-    <RegistryPropertyType />
-    <RegistryValueName />
-    <RegistryExpectedValue />
-    <RegistryExpressionOperator />
-  </RegistryDetection3>
 </ALLAPPINFO>

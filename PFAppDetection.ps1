@@ -11,7 +11,7 @@ param(
     [ValidateRange(-1, 1)]
     [int]$SystemComponent = -1,
     [ValidateSet('Detection', 'Requirement')]
-    [string]$Purpose = 'Detection',
+    [string]$Purpose = '',
     [ValidateSet('HKLM', 'HKCU')]
     [string[]]$HivesToSearch = '',
     [ValidateSet('EXE', 'MSI', 'ANY')]

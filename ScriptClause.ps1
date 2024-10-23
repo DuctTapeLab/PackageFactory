@@ -1,19 +1,19 @@
 ﻿[CmdletBinding()]
 param(
-    [string]$AppToSearch = 'Logitech Presentation*',
+    [string]$AppToSearch = '',
     [string]$RegexAppToSearch = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('')),
     [string]$AppToAvoid = '',
     [string]$AppMSICodeToSearch = '',
-    [string]$ApplicationVersionToSearch = '2.10.34',
+    [string]$ApplicationVersionToSearch = '',
     [string]$ApplicationVersionFilter = '*',
     [ValidateSet('Both', 'x86', 'x64')]
-    [string]$Architecture = 'x64',
+    [string]$Architecture = '',
     [ValidateRange(-1, 1)]
     [int]$SystemComponent = -1,
     [ValidateSet('Detection', 'Requirement')]
     [string]$Purpose = 'Detection',
     [ValidateSet('HKLM', 'HKCU')]
-    [string[]]$HivesToSearch = 'HKLM',
+    [string[]]$HivesToSearch = '',
     [ValidateSet('EXE', 'MSI', 'ANY')]
     [string]$InstallerType = 'Any',
     [hashtable]$RegKeyDetection = @{},

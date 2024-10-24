@@ -4,6 +4,10 @@
     <ApplicationName></ApplicationName>
     <SoftwareVersion>
     </SoftwareVersion>
+    <InstallerType>
+    </InstallerType>
+    <Architecture>
+    </Architecture>
     <ContentLocation>
     </ContentLocation>
     <IconLocationFile>
